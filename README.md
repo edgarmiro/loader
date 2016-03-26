@@ -1,2 +1,2 @@
 # Sample
-Cursor Loader using ActiveAndroid and ButterKnife libs
+Cursor Loader with the ORM ActiveAndroid
